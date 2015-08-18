@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "QoboCakePHPBrand\\": "src"
+            "Qobo\\QoboCakePHPBrand\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "QoboCakePHPBrand\\Test\\": "tests",
+            "Qobo\\QoboCakePHPBrand\\Test\\": "tests",
             "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
         }
     }
