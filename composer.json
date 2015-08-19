@@ -1,5 +1,5 @@
 {
-    "name": "Qobo/Qobo-CakePHP-Brand",
+    "name": "qobo/qobo-cakephp-brand",
     "description": "Plugin to add brand to website footer",
     "type": "cakephp-plugin",
     "require": {
